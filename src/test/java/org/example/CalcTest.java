@@ -12,7 +12,7 @@ public class CalcTest {
     }
 
     @Test
-    void testSuntraction() {
+    void testSubtraction() {
         assertEquals(2, c.add(4,2));
     }
 
